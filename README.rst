@@ -12,6 +12,7 @@ See parent repository and related issue for further info:
 https://gitlab.com/open-source-ventilator/ventilator/OpenLung/-/issues/77#note_313225355
 
 This repository intends to accomplish the following:
+
 1) Simple (linearized) but representative mathematical
    model of the entire system including Ambu-bag and actuators.
 
